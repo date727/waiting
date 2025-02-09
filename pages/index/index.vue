@@ -611,7 +611,7 @@ export default {
 		font-size: 14px;
 		text-align: center;
 		box-sizing: border-box;
-		height: 38px; /* 设置固定高度 */
+		height: 32px; /* 设置固定高度 */
 		line-height: 22px; /* 调整文字垂直居中 */
 	}
 

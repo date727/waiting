@@ -1,0 +1,8 @@
+{
+  "defaultTitle": "铃声设置",
+  "titleBarColor": "#007aff",
+  "backgroundColor": "#f5f5f5",
+  "usingComponents": {
+    "uni-icons": "/node-modules/npm-scope-dcloudio/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

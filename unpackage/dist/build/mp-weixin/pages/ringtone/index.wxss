@@ -1,0 +1,1 @@
+.ringtone-container{padding:20px}.ringtone-item{display:flex;justify-content:space-between;align-items:center;padding:15px;border-bottom:1px solid #eee}
